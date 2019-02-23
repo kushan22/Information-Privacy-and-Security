@@ -1,0 +1,6 @@
+Did changing a single byte in the file change the content of the file? Was the file still usable? Why or why not? Please answer as "Yes, always", "Sometimes", "No, never" and explain why.
+
+Yes Changing a Single Byte in the file changes the content of the file.
+The file will be not usable always as the file that we wanted has been changed now and hence that file
+would not serve the purpose that it was supposed to serve.
+It can be seen as the hashes of the two files has been changed as well.
